@@ -165,7 +165,7 @@ http://localhost:8080/login.html
 | Admin Dashboard | ❌ | ✅ |
 | Export CSV | ❌ | ✅ |
 ---
-👨‍💻 Developers
+👨‍💻 Developers:
 Nischay Jain — @nischayj
 Pawan Soni — @pawan0221
 ---
